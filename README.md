@@ -5,54 +5,62 @@ Co-CEO • Co-Director • Software Developer
 </p>
 
 <p align="center">
-Building developer infrastructure and secure software platforms.
+Building secure developer infrastructure and software platforms.
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a **Co-CEO and Co-Director** of a developer platform focused on building modern tools for software developers.
+I am a **Co-CEO and Co-Director** involved in building developer infrastructure and modern software platforms.
 
 My work focuses on:
 
-- developer SaaS platforms
-- software licensing infrastructure
-- authentication systems
-- API architecture
-- developer tooling
+- developer SaaS platforms  
+- software licensing systems  
+- authentication infrastructure  
+- API architecture  
+- security-focused tools  
 
-I help lead the development and direction of the **Franked License Platform**, a system designed to provide developers with secure software licensing and authentication infrastructure.
+I help lead development of the **Franked License Platform**, a system designed to provide developers with secure authentication and licensing infrastructure.
 
 ---
 
-# 🏢 Role
+# 🏢 Leadership Role
 
-### Co-CEO / Co-Director
+### Co-CEO / Co-Director — Franked Platform
 
 Responsibilities include:
 
-- leading product development
-- architecture decisions
-- platform infrastructure
-- developer experience
-- long-term technical strategy
+- technical leadership  
+- product architecture  
+- platform infrastructure  
+- development direction  
+- developer experience  
 
 ---
 
-# 🔐 Platform
+# 🔐 Franked License Platform
 
-## Franked License Platform
+A developer platform focused on providing secure infrastructure for software developers.
 
-A developer platform focused on:
+Core features include:
 
-- software licensing systems
-- authentication APIs
-- developer dashboards
-- analytics and monitoring
-- security-focused infrastructure
+- license management systems  
+- authentication APIs  
+- developer dashboards  
+- analytics and monitoring  
+- application security tools  
 
-The platform helps developers **protect applications and manage access through a centralized system.**
+---
+
+# 🔗 Project & Organization
+
+Main project profile:
+
+➡ https://github.com/OfficialFranked
+
+This profile contains the main repositories, platform development, and open-source components of the **Franked platform**.
 
 ---
 
@@ -60,35 +68,35 @@ The platform helps developers **protect applications and manage access through a
 
 ### Languages
 
-- TypeScript
-- JavaScript
-- C++
-- C#
-- Python
+- TypeScript  
+- JavaScript  
+- C++  
+- C#  
+- Python  
 
 ### Frameworks
 
-- Next.js
-- React
-- Node.js
+- Next.js  
+- React  
+- Node.js  
 
 ### Infrastructure
 
-- PostgreSQL
-- Prisma
-- Netlify
-- Serverless APIs
+- PostgreSQL  
+- Prisma  
+- Netlify  
+- Serverless APIs  
 
 ---
 
 # 🎯 Focus
 
-My work focuses on building **reliable infrastructure for developers** including:
+My work focuses on building **reliable infrastructure for developers**, including:
 
-- licensing systems
-- authentication services
-- SaaS platforms
-- developer tooling
+- software licensing systems  
+- authentication services  
+- SaaS platforms  
+- developer tools  
 
 ---
 
@@ -96,6 +104,9 @@ My work focuses on building **reliable infrastructure for developers** including
 
 GitHub  
 https://github.com/vikingopsec
+
+Platform  
+https://github.com/OfficialFranked
 
 ---
 
